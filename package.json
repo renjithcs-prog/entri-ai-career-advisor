@@ -1,0 +1,12 @@
+{
+  "name": "entri-ai-career-advisor-static",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'static site, nothing to build'",
+    "start": "serve ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
