@@ -318,12 +318,7 @@ function fireConfetti() {
   canvas.width = window.innerWidth;
   canvas.height = window.innerHeight;
 
-  confetti({
-    particleCount: 80,
-    spread: 70,
-    origin: { y: 0.6 },
-    colors: ["#0061B5", "#0089FF", "#00805C", "#FFA000"],
-  });
+  const colors = ["#0061B5", "#0089FF", "#00805C", "#FFA000"];
   const particles = Array.from({ length: 80 }, () => ({
     x: canvas.width * 0.5,
     y: canvas.height * 0.55,
