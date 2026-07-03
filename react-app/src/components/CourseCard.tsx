@@ -11,8 +11,6 @@ interface CourseCardProps {
   title: string;
   whyFits: string;
   careerOpportunities: string[];
-  difficulty: string;
-  learningTime: string;
   demand: IndicatorLevel;
   growth: IndicatorLevel;
   category: string[];
@@ -24,8 +22,6 @@ export function CourseCard({
   title,
   whyFits,
   careerOpportunities,
-  difficulty,
-  learningTime,
   demand,
   growth,
   category,
@@ -67,18 +63,6 @@ export function CourseCard({
               <p className="text-xs leading-relaxed text-primary-text">
                 {careerOpportunities.slice(0, 3).join(" · ")}
               </p>
-            </div>
-            <div className="rounded-xl bg-secondary-container p-3">
-              <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-subtext">
-                Difficulty
-              </p>
-              <p className="font-semibold text-primary-text">{difficulty}</p>
-            </div>
-            <div className="rounded-xl bg-secondary-container p-3">
-              <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-subtext">
-                Learning Time
-              </p>
-              <p className="font-semibold text-primary-text">{learningTime}</p>
             </div>
             <div className="rounded-xl bg-secondary-container p-3">
               <p className="mb-1 text-[10px] font-bold uppercase tracking-wider text-subtext">

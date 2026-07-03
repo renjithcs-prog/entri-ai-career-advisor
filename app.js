@@ -170,10 +170,6 @@ function formatDuration(weeks) {
   return months <= 1 ? "~1 month" : `~${months} months`;
 }
 
-function capitalize(s) {
-  return s.charAt(0).toUpperCase() + s.slice(1);
-}
-
 /** LLM swap point: replace with API-generated explanations */
 function buildWhyFits(course, signals, careerMatches, answers) {
   const domain = formatCareerLabel(careerMatches, answers.careerType);
@@ -724,14 +720,6 @@ function renderCourseCard(item, compact) {
         <div class="meta-item">
           <p class="meta-item__label">Career Opportunities</p>
           <p class="meta-item__value">${escapeHtml(careers)}</p>
-        </div>
-        <div class="meta-item">
-          <p class="meta-item__label">Difficulty</p>
-          <p class="meta-item__value">${escapeHtml(capitalize(c.level))}</p>
-        </div>
-        <div class="meta-item">
-          <p class="meta-item__label">Learning Time</p>
-          <p class="meta-item__value">${escapeHtml(formatDuration(c.durationWeeks))}</p>
         </div>
         <div class="meta-item">
           <p class="meta-item__label">Demand · Growth</p>

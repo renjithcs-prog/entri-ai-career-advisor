@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
 import type { RecommendationResult } from "../types";
-import { formatDifficulty, formatLearningTime } from "../lib/recommendationEngine";
 import { CourseCard } from "./CourseCard";
 import { Button } from "./Button";
 
@@ -58,8 +57,6 @@ export function ResultsScreen({ result, onRetake }: ResultsScreenProps) {
             title={item.course.title}
             whyFits={item.whyFits}
             careerOpportunities={item.course.careerOpportunities}
-            difficulty={formatDifficulty(item.course.level)}
-            learningTime={formatLearningTime(item.course.durationWeeks)}
             demand={item.course.demandIndicator}
             growth={item.course.futureGrowthIndicator}
             category={item.course.category}
@@ -79,8 +76,6 @@ export function ResultsScreen({ result, onRetake }: ResultsScreenProps) {
                 title={item.course.title}
                 whyFits={item.whyFits}
                 careerOpportunities={item.course.careerOpportunities}
-                difficulty={formatDifficulty(item.course.level)}
-                learningTime={formatLearningTime(item.course.durationWeeks)}
                 demand={item.course.demandIndicator}
                 growth={item.course.futureGrowthIndicator}
                 category={item.course.category}
