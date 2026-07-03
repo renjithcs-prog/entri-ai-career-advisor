@@ -57,6 +57,7 @@ const state = {
   lead: {
     name: "",
     phone: "",
+    language: "",
   },
   leadFormAttempted: false,
   result: null,
@@ -428,10 +429,24 @@ function normalizePhone(phone) {
   return digits;
 }
 
+const LANGUAGE_OPTIONS = [
+  "Malayalam",
+  "Tamil",
+  "Hindi",
+  "Kannada",
+  "Telugu",
+  "Bengali",
+  "Gujarati",
+  "Marathi",
+  "Punjabi",
+  "Odia",
+  "Assamese",
+];
+
 function isLeadFormValid() {
   const name = state.lead.name.trim();
   const phone = normalizePhone(state.lead.phone);
-  return name.length >= 2 && isValidIndianPhone(phone);
+  return name.length >= 2 && isValidIndianPhone(phone) && state.lead.language !== "";
 }
 
 function getRecommendationTitles(result) {
@@ -448,6 +463,7 @@ async function submitLeadToSheet() {
   const payload = {
     name: state.lead.name.trim(),
     phone: normalizePhone(state.lead.phone),
+    language: state.lead.language || "",
     goal: state.answers.goal || "",
     qualification: state.answers.qualification || "",
     status: state.answers.status || "",
@@ -602,9 +618,11 @@ function renderLoading() {
 function renderLeadForm() {
   const name = state.lead.name;
   const phone = state.lead.phone;
+  const language = state.lead.language;
   const showErrors = state.leadFormAttempted;
   const nameError = showErrors && name.trim().length < 2;
   const phoneError = showErrors && !isValidIndianPhone(normalizePhone(phone));
+  const languageError = showErrors && language === "";
   const canSubmit = isLeadFormValid() && !state.submitting;
 
   screenEl.innerHTML = `
@@ -646,6 +664,22 @@ function renderLeadForm() {
           ${phoneError ? '<p class="field__error">Enter a valid 10-digit Indian mobile number.</p>' : ""}
         </div>
 
+        <div class="field">
+          <label class="field__label" for="lead-language">Preferred language</label>
+          <select
+            id="lead-language"
+            class="field__input${languageError ? " field__input--error" : ""}"
+            name="language"
+            required
+          >
+            <option value="" disabled ${language === "" ? "selected" : ""}>Select language</option>
+            ${LANGUAGE_OPTIONS.map(
+              (lang) => `<option value="${lang}" ${language === lang ? "selected" : ""}>${lang}</option>`
+            ).join("")}
+          </select>
+          ${languageError ? '<p class="field__error">Please select your preferred language.</p>' : ""}
+        </div>
+
         <p class="lead-form__note">We’ll use this only to share your career plan and course guidance from Entri.</p>
 
         <button type="submit" id="lead-submit" class="btn btn--primary" ${canSubmit ? "" : "disabled"}>
@@ -668,12 +702,17 @@ function renderLeadForm() {
     if (submitBtn) submitBtn.disabled = !isLeadFormValid() || state.submitting;
   });
 
+  document.getElementById("lead-language").addEventListener("change", (e) => {
+    state.lead.language = e.target.value;
+    if (submitBtn) submitBtn.disabled = !isLeadFormValid() || state.submitting;
+  });
+
   form.addEventListener("submit", (e) => {
     e.preventDefault();
     handleLeadSubmit();
   });
 
-  announce("Please enter your name and phone number to see your recommendations.");
+  announce("Please enter your name, phone number and preferred language to see your recommendations.");
 }
 
 async function handleLeadSubmit() {
@@ -838,7 +877,7 @@ function handleRetake() {
   state.screen = "welcome";
   state.stepIndex = 0;
   state.answers = { goal: null, qualification: null, status: null, careerType: [], timeline: null };
-  state.lead = { name: "", phone: "" };
+  state.lead = { name: "", phone: "", language: "" };
   state.leadFormAttempted = false;
   state.result = null;
   state.submitting = false;

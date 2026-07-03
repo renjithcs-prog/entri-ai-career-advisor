@@ -18,6 +18,7 @@ function setupSheet() {
       "Timestamp",
       "Name",
       "Phone",
+      "Language",
       "Goal",
       "Qualification",
       "Status",
@@ -25,7 +26,7 @@ function setupSheet() {
       "Timeline",
       "Top Recommendations",
     ]);
-    sheet.getRange(1, 1, 1, 9).setFontWeight("bold");
+    sheet.getRange(1, 1, 1, 10).setFontWeight("bold");
   }
 }
 
@@ -40,6 +41,7 @@ function doPost(e) {
       new Date(),
       data.name || "",
       data.phone || "",
+      data.language || "",
       data.goal || "",
       data.qualification || "",
       data.status || "",
