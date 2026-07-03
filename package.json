@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "build": "echo 'static site, nothing to build'",
-    "start": "serve ."
+    "build": "node scripts/build.mjs",
+    "start": "serve dist"
   },
   "dependencies": {
     "serve": "^14.2.4"
