@@ -1,0 +1,55 @@
+[
+  {
+    "id": "goal",
+    "title": "What are you hoping to achieve right now?",
+    "type": "single",
+    "options": [
+      "Get a Government Job",
+      "Get a Private Job",
+      "Switch My Career",
+      "I'm Not Sure Yet"
+    ]
+  },
+  {
+    "id": "qualification",
+    "title": "What is your highest qualification?",
+    "type": "single",
+    "options": ["SSLC", "Plus Two", "Degree", "Other"]
+  },
+  {
+    "id": "status",
+    "title": "What best describes you today?",
+    "type": "single",
+    "options": ["Student", "Job Seeker", "Working Professional", "Other"]
+  },
+  {
+    "id": "careerType",
+    "title": "Which type of career excites you the most?",
+    "subtitle": "Allow selecting up to two.",
+    "type": "multi",
+    "maxSelect": 2,
+    "options": [
+      "Technology & AI",
+      "Finance & Business",
+      "Marketing & Sales",
+      "Healthcare",
+      "Engineering & Construction",
+      "Teaching & Education",
+      "Aviation & Hospitality",
+      "Beauty & Fashion",
+      "Fitness & Wellness",
+      "Government Services"
+    ]
+  },
+  {
+    "id": "timeline",
+    "title": "How soon do you want to achieve your goal?",
+    "type": "single",
+    "options": [
+      "Immediately (0–3 Months)",
+      "Within 6 Months",
+      "Within 1 Year",
+      "Just Exploring"
+    ]
+  }
+]

@@ -1,0 +1,2087 @@
+[
+  {
+    "id": "full-stack-development",
+    "title": "Full Stack Development",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "End-to-end web development covering front-end, back-end, databases, and deployment to become a job-ready developer.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career",
+      "Start My Own Business"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 24,
+    "tags": [
+      "coding",
+      "web-development",
+      "javascript",
+      "developer"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Software Developer",
+      "Web Developer",
+      "Full Stack Engineer"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "data-science",
+    "title": "Data Science",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "Hands-on training in statistics, machine learning, and data tools to build and deploy real-world data science models.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Job Seeker",
+      "Working Professional",
+      "Student"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 20,
+    "tags": [
+      "data-science",
+      "machine-learning",
+      "analytics",
+      "python"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Data Scientist",
+      "ML Engineer",
+      "Analytics Specialist"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "python-programming",
+    "title": "Python Programming",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "Foundational to advanced Python programming covering syntax, data structures, and real coding projects.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career",
+      "I'm Not Sure Yet"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 10,
+    "tags": [
+      "python",
+      "coding",
+      "programming",
+      "fundamentals"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Python Developer",
+      "Automation Engineer",
+      "Backend Developer"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "software-testing",
+    "title": "Software Testing",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "Manual and automation testing skills to launch a QA career, covering test design, tools, and real project simulations.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Job Seeker",
+      "Working Professional",
+      "Student"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 12,
+    "tags": [
+      "testing",
+      "qa",
+      "automation",
+      "software"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "QA Engineer",
+      "Test Automation Engineer",
+      "Quality Analyst"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "data-analytics-course",
+    "title": "Data Analytics Course",
+    "category": [
+      "Technology & AI",
+      "Finance & Business"
+    ],
+    "description": "Practical analytics training using Excel, SQL, and visualization tools to turn raw data into business decisions.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 14,
+    "tags": [
+      "analytics",
+      "sql",
+      "excel",
+      "data"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Data Analyst",
+      "Business Analyst",
+      "BI Specialist"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "ai-tools-mastery",
+    "title": "AI Tools Mastery",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "Practical mastery of today's leading AI tools to boost productivity across writing, design, research, and business tasks.",
+    "goals": [
+      "Grow in My Current Career",
+      "Switch My Career",
+      "Start My Own Business",
+      "I'm Not Sure Yet"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Business Owner",
+      "Freelancer",
+      "Homemaker"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months",
+      "Just Exploring"
+    ],
+    "level": "beginner",
+    "durationWeeks": 4,
+    "tags": [
+      "ai",
+      "productivity",
+      "tools",
+      "no-code"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Productivity Specialist",
+      "Digital Professional",
+      "AI-enabled roles"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "ai-powered-cybersecurity",
+    "title": "AI Powered Cybersecurity Course",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "Modern cybersecurity training blending traditional security fundamentals with AI-driven threat detection techniques.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Job Seeker",
+      "Working Professional",
+      "Student"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 16,
+    "tags": [
+      "cybersecurity",
+      "ai",
+      "security",
+      "networking"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Security Analyst",
+      "Cybersecurity Engineer",
+      "SOC Analyst"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "architecting-on-aws",
+    "title": "Architecting on AWS",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "Cloud architecture training on AWS covering core services, security, and scalable system design for certification-track learners.",
+    "goals": [
+      "Grow in My Current Career",
+      "Switch My Career",
+      "Get a Private Job"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "advanced",
+    "durationWeeks": 8,
+    "tags": [
+      "aws",
+      "cloud",
+      "architecture",
+      "devops"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Cloud Architect",
+      "DevOps Engineer",
+      "Solutions Architect"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "robotics-ai-course",
+    "title": "Robotics & AI Course",
+    "category": [
+      "Engineering & Construction",
+      "Technology & AI"
+    ],
+    "description": "Hands-on robotics and AI training covering automation, sensors, and intelligent systems design.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career",
+      "I'm Not Sure Yet"
+    ],
+    "minQualification": "Diploma / ITI",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 16,
+    "tags": [
+      "robotics",
+      "ai",
+      "automation",
+      "engineering"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Robotics Engineer",
+      "Automation Specialist",
+      "R&D Engineer"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "embedded-systems",
+    "title": "Embedded Systems Software Engineering",
+    "category": [
+      "Engineering & Construction",
+      "Technology & AI"
+    ],
+    "description": "Embedded software engineering training covering microcontrollers, firmware, and real-time systems development.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "advanced",
+    "durationWeeks": 20,
+    "tags": [
+      "embedded",
+      "firmware",
+      "iot",
+      "engineering"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "Embedded Engineer",
+      "Firmware Developer",
+      "IoT Engineer"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "ui-ux-design",
+    "title": "UI/UX Design",
+    "category": [
+      "Technology & AI",
+      "Marketing & Sales"
+    ],
+    "description": "User-centered design training covering research, wireframing, prototyping, and portfolio-building for design roles.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Start My Own Business",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 16,
+    "tags": [
+      "design",
+      "ux",
+      "ui",
+      "figma"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "UI Designer",
+      "UX Researcher",
+      "Product Designer"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "genai-professionals",
+    "title": "Generative AI for Professionals",
+    "category": [
+      "Technology & AI"
+    ],
+    "description": "Practical generative AI training for working professionals to apply AI tools directly to their existing roles and workflows.",
+    "goals": [
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Start My Own Business"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker",
+      "Business Owner"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 8,
+    "tags": [
+      "ai",
+      "genai",
+      "professionals",
+      "no-code"
+    ],
+    "group": "Technology",
+    "careerOpportunities": [
+      "AI Specialist",
+      "Innovation Lead",
+      "Digital Strategist"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "practical-accounting",
+    "title": "Practical Accounting (Business Accounting & Finance Certification)",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Job-ready accounting certification covering bookkeeping, GST, payroll, and finance software used in real businesses.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Start My Own Business"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Homemaker"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 10,
+    "tags": [
+      "accounting",
+      "finance",
+      "bookkeeping",
+      "gst"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "Accountant",
+      "Finance Executive",
+      "Bookkeeper"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "pwc-edge",
+    "title": "PwC Edge: Strategic Accounting & Finance Programme",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Industry-backed finance programme co-created with PwC, designed to build strategic finance and accounting expertise.",
+    "goals": [
+      "Grow in My Current Career",
+      "Switch My Career",
+      "Get a Private Job"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "advanced",
+    "durationWeeks": 24,
+    "tags": [
+      "pwc",
+      "finance",
+      "accounting",
+      "strategy"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "Strategic Finance Analyst",
+      "Corporate Finance Professional"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "acca",
+    "title": "ACCA",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Globally recognized chartered accountancy qualification opening doors to international finance and audit careers.",
+    "goals": [
+      "Study or Work Abroad",
+      "Switch My Career",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 1 year",
+      "Just Exploring"
+    ],
+    "level": "advanced",
+    "durationWeeks": 52,
+    "tags": [
+      "acca",
+      "chartered-accountancy",
+      "finance",
+      "global"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "Chartered Accountant",
+      "Audit Associate",
+      "Finance Manager"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "cma-usa-course",
+    "title": "CMA USA Course",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "US Certified Management Accountant qualification for finance professionals targeting global corporate finance roles.",
+    "goals": [
+      "Study or Work Abroad",
+      "Switch My Career",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 1 year",
+      "Just Exploring"
+    ],
+    "level": "advanced",
+    "durationWeeks": 36,
+    "tags": [
+      "cma",
+      "management-accounting",
+      "us-finance",
+      "global"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "Management Accountant",
+      "Financial Controller",
+      "CFO track roles"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "enrolled-agent-course",
+    "title": "Enrolled Agent Course",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "US tax practitioner certification enabling you to represent taxpayers before the IRS â€” ideal for global tax careers.",
+    "goals": [
+      "Study or Work Abroad",
+      "Switch My Career",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 1 year",
+      "Just Exploring"
+    ],
+    "level": "advanced",
+    "durationWeeks": 28,
+    "tags": [
+      "tax",
+      "us-tax",
+      "irs",
+      "enrolled-agent"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "US Tax Practitioner",
+      "Tax Consultant",
+      "Global Tax Advisor"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "certified-tax-professional",
+    "title": "Certified Tax Professional Course",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Practical taxation training covering income tax, GST filing, and compliance for a career in tax practice.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Start My Own Business",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 10,
+    "tags": [
+      "tax",
+      "gst",
+      "compliance",
+      "finance"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "Tax Consultant",
+      "GST Practitioner",
+      "Compliance Officer"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "sap-fico",
+    "title": "SAP FICO",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "SAP Financial Accounting and Controlling module training for finance professionals seeking ERP-based roles.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 12,
+    "tags": [
+      "sap",
+      "finance",
+      "erp",
+      "accounting"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "SAP Consultant",
+      "FICO Analyst",
+      "ERP Finance Specialist"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "sap-mm",
+    "title": "SAP MM",
+    "category": [
+      "Finance & Business",
+      "Engineering & Construction"
+    ],
+    "description": "SAP Materials Management training covering procurement, inventory, and supply chain processes within SAP ERP.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 10,
+    "tags": [
+      "sap",
+      "supply-chain",
+      "procurement",
+      "erp"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "SAP MM Consultant",
+      "Procurement Analyst",
+      "Supply Chain Specialist"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "sap-sd",
+    "title": "SAP SD",
+    "category": [
+      "Finance & Business",
+      "Marketing & Sales"
+    ],
+    "description": "SAP Sales and Distribution module training covering order management and sales process configuration in SAP ERP.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 10,
+    "tags": [
+      "sap",
+      "sales",
+      "distribution",
+      "erp"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "SAP SD Consultant",
+      "Sales Operations Analyst"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "hr-management-course",
+    "title": "HR Management Course",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Comprehensive HR training covering recruitment, payroll, compliance, and people management for corporate HR roles.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Job Seeker",
+      "Working Professional",
+      "Homemaker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 12,
+    "tags": [
+      "hr",
+      "human-resources",
+      "payroll",
+      "recruitment"
+    ],
+    "group": "Business & Finance",
+    "careerOpportunities": [
+      "HR Executive",
+      "Recruitment Specialist",
+      "People Operations"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "quantity-surveying",
+    "title": "Quantity Surveying",
+    "category": [
+      "Engineering & Construction"
+    ],
+    "description": "Construction cost estimation and contract management training preparing learners for quantity surveyor roles.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Study or Work Abroad"
+    ],
+    "minQualification": "Diploma / ITI",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 16,
+    "tags": [
+      "construction",
+      "quantity-surveying",
+      "cost-estimation",
+      "civil"
+    ],
+    "group": "Engineering",
+    "careerOpportunities": [
+      "Quantity Surveyor",
+      "Cost Estimator",
+      "Contracts Manager"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "structural-design",
+    "title": "Structural Design",
+    "category": [
+      "Engineering & Construction"
+    ],
+    "description": "Structural engineering design training covering analysis software and real-world building design projects.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Study or Work Abroad"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "advanced",
+    "durationWeeks": 20,
+    "tags": [
+      "structural-engineering",
+      "civil",
+      "design",
+      "construction"
+    ],
+    "group": "Engineering",
+    "careerOpportunities": [
+      "Structural Engineer",
+      "Design Engineer",
+      "Civil Consultant"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "bim-course",
+    "title": "BIM Course",
+    "category": [
+      "Engineering & Construction"
+    ],
+    "description": "Building Information Modeling training for construction professionals to design, plan, and manage projects digitally.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Study or Work Abroad"
+    ],
+    "minQualification": "Diploma / ITI",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 12,
+    "tags": [
+      "bim",
+      "construction",
+      "modeling",
+      "engineering"
+    ],
+    "group": "Engineering",
+    "careerOpportunities": [
+      "BIM Modeler",
+      "Construction Planner",
+      "Digital Project Coordinator"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "mep-design",
+    "title": "MEP (Mechanical, Electrical, Plumbing) Design",
+    "category": [
+      "Engineering & Construction"
+    ],
+    "description": "Specialized MEP design training for building services engineering, covering HVAC, electrical, and plumbing systems.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Study or Work Abroad"
+    ],
+    "minQualification": "Diploma / ITI",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 16,
+    "tags": [
+      "mep",
+      "hvac",
+      "building-services",
+      "engineering"
+    ],
+    "group": "Engineering",
+    "careerOpportunities": [
+      "MEP Designer",
+      "Building Services Engineer",
+      "HVAC Designer"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "digital-marketing",
+    "title": "Digital Marketing",
+    "category": [
+      "Marketing & Sales"
+    ],
+    "description": "Full-spectrum digital marketing training covering SEO, social media, content, and analytics to launch a marketing career.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Start My Own Business",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Business Owner",
+      "Freelancer",
+      "Homemaker"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 12,
+    "tags": [
+      "digital-marketing",
+      "seo",
+      "social-media",
+      "marketing"
+    ],
+    "group": "Marketing",
+    "careerOpportunities": [
+      "Digital Marketer",
+      "SEO Specialist",
+      "Social Media Manager"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "performance-marketing",
+    "title": "Performance Marketing",
+    "category": [
+      "Marketing & Sales"
+    ],
+    "description": "Advanced paid-media training covering Google and Meta ads, conversion tracking, and ROI-driven campaign strategy.",
+    "goals": [
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Start My Own Business"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Working Professional",
+      "Job Seeker",
+      "Business Owner",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 10,
+    "tags": [
+      "performance-marketing",
+      "ads",
+      "ppc",
+      "marketing"
+    ],
+    "group": "Marketing",
+    "careerOpportunities": [
+      "Performance Marketer",
+      "Growth Specialist",
+      "Paid Media Manager"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "stock-market",
+    "title": "Stock Market",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Practical stock market training covering fundamental and technical analysis for confident, informed investing.",
+    "goals": [
+      "Grow in My Current Career",
+      "Start My Own Business",
+      "I'm Not Sure Yet"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Homemaker",
+      "Business Owner",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months",
+      "Just Exploring"
+    ],
+    "level": "beginner",
+    "durationWeeks": 8,
+    "tags": [
+      "stock-market",
+      "investing",
+      "trading",
+      "finance"
+    ],
+    "group": "Trading",
+    "careerOpportunities": [
+      "Equity Analyst",
+      "Independent Trader",
+      "Wealth Advisor"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "forex-trading",
+    "title": "Forex Trading",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Foreign exchange trading fundamentals and strategy training for those looking to trade currency markets confidently.",
+    "goals": [
+      "Start My Own Business",
+      "Grow in My Current Career",
+      "I'm Not Sure Yet"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Job Seeker",
+      "Working Professional",
+      "Business Owner",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months",
+      "Just Exploring"
+    ],
+    "level": "beginner",
+    "durationWeeks": 6,
+    "tags": [
+      "forex",
+      "trading",
+      "currency",
+      "finance"
+    ],
+    "group": "Trading",
+    "careerOpportunities": [
+      "Forex Trader",
+      "Currency Analyst",
+      "Trading Consultant"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "mutual-funds-course",
+    "title": "Mutual Funds Course",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Mutual fund fundamentals and portfolio strategy training for personal investing or an advisory career path.",
+    "goals": [
+      "Grow in My Current Career",
+      "Start My Own Business",
+      "I'm Not Sure Yet"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Homemaker",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months",
+      "Just Exploring"
+    ],
+    "level": "beginner",
+    "durationWeeks": 6,
+    "tags": [
+      "mutual-funds",
+      "investing",
+      "personal-finance",
+      "wealth"
+    ],
+    "group": "Trading",
+    "careerOpportunities": [
+      "Mutual Fund Advisor",
+      "Wealth Manager",
+      "Investment Consultant"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "personal-finance-course",
+    "title": "Personal Finance Course",
+    "category": [
+      "Finance & Business"
+    ],
+    "description": "Practical money management training covering budgeting, saving, investing, and planning for financial goals.",
+    "goals": [
+      "Grow in My Current Career",
+      "I'm Not Sure Yet",
+      "Start My Own Business"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Homemaker",
+      "Freelancer",
+      "Business Owner"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Just Exploring"
+    ],
+    "level": "beginner",
+    "durationWeeks": 4,
+    "tags": [
+      "personal-finance",
+      "budgeting",
+      "investing",
+      "money-management"
+    ],
+    "group": "Trading",
+    "careerOpportunities": [
+      "Financial Planner",
+      "Personal Finance Coach"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "hospital-administration",
+    "title": "Hospital Administration",
+    "category": [
+      "Healthcare"
+    ],
+    "description": "Healthcare management training covering hospital operations, patient services, and administrative systems.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 14,
+    "tags": [
+      "healthcare",
+      "hospital-administration",
+      "management",
+      "operations"
+    ],
+    "group": "Healthcare",
+    "careerOpportunities": [
+      "Hospital Administrator",
+      "Healthcare Operations Manager"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "general-fitness-trainer",
+    "title": "General Fitness Trainer Course",
+    "category": [
+      "Fitness & Wellness"
+    ],
+    "description": "Entry-level fitness trainer certification covering exercise basics, gym floor skills, and client coaching fundamentals.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Start My Own Business"
+    ],
+    "minQualification": "SSLC",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 6,
+    "tags": [
+      "fitness",
+      "trainer",
+      "gym",
+      "wellness"
+    ],
+    "group": "Fitness",
+    "careerOpportunities": [
+      "Gym Trainer",
+      "Fitness Instructor",
+      "Wellness Coach"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "personal-fitness-trainer",
+    "title": "Personal Fitness Trainer Course",
+    "category": [
+      "Fitness & Wellness"
+    ],
+    "description": "Personal training certification covering one-on-one client programming, nutrition basics, and coaching technique.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Start My Own Business",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Job Seeker",
+      "Working Professional",
+      "Freelancer",
+      "Business Owner"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 8,
+    "tags": [
+      "fitness",
+      "personal-training",
+      "coaching",
+      "wellness"
+    ],
+    "group": "Fitness",
+    "careerOpportunities": [
+      "Personal Trainer",
+      "Fitness Coach",
+      "Studio Instructor"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "advanced-certified-personal-trainer",
+    "title": "Advanced Certified Personal Trainer",
+    "category": [
+      "Fitness & Wellness"
+    ],
+    "description": "Advanced personal training certification with specialization tracks for experienced trainers building a premium client base.",
+    "goals": [
+      "Grow in My Current Career",
+      "Start My Own Business",
+      "Switch My Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Working Professional",
+      "Freelancer",
+      "Business Owner"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "advanced",
+    "durationWeeks": 12,
+    "tags": [
+      "fitness",
+      "advanced-training",
+      "specialization",
+      "wellness"
+    ],
+    "group": "Fitness",
+    "careerOpportunities": [
+      "Senior Personal Trainer",
+      "Specialist Coach",
+      "Studio Owner"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "yoga-teacher-training",
+    "title": "Yoga Teacher Training",
+    "category": [
+      "Fitness & Wellness"
+    ],
+    "description": "Certified yoga instructor training covering asanas, anatomy, and teaching methodology for studio or independent practice.",
+    "goals": [
+      "Switch My Career",
+      "Start My Own Business",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Homemaker",
+      "Working Professional",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 12,
+    "tags": [
+      "yoga",
+      "wellness",
+      "fitness",
+      "teaching"
+    ],
+    "group": "Fitness",
+    "careerOpportunities": [
+      "Yoga Instructor",
+      "Wellness Coach",
+      "Studio Founder"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "montessori-teacher-training",
+    "title": "Montessori Teacher Training",
+    "category": [
+      "Teaching & Education"
+    ],
+    "description": "Globally recognized Montessori certification to teach early-childhood classrooms using child-led, hands-on methods.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Grow in My Current Career",
+      "Start My Own Business"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Homemaker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 16,
+    "tags": [
+      "montessori",
+      "early-childhood",
+      "teaching",
+      "preschool"
+    ],
+    "group": "Education",
+    "careerOpportunities": [
+      "Montessori Teacher",
+      "Preschool Educator",
+      "Early Childhood Specialist"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "fashion-designing-boutique",
+    "title": "Fashion Designing and Boutique Management",
+    "category": [
+      "Beauty & Fashion"
+    ],
+    "description": "Creative fashion design training paired with practical boutique business management to launch your own label or studio.",
+    "goals": [
+      "Start My Own Business",
+      "Switch My Career",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Homemaker",
+      "Freelancer",
+      "Business Owner"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 16,
+    "tags": [
+      "fashion",
+      "design",
+      "boutique",
+      "business"
+    ],
+    "group": "Creative",
+    "careerOpportunities": [
+      "Fashion Designer",
+      "Boutique Owner",
+      "Creative Entrepreneur"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "advanced-beauty-wellness-cert",
+    "title": "Advanced Certification in Beauty & Wellness",
+    "category": [
+      "Beauty & Fashion",
+      "Fitness & Wellness"
+    ],
+    "description": "Advanced beauty and wellness certification covering skincare, spa therapies, and client consultation for salon or spa careers.",
+    "goals": [
+      "Switch My Career",
+      "Get a Private Job",
+      "Start My Own Business",
+      "Grow in My Current Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Homemaker",
+      "Freelancer",
+      "Business Owner"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 14,
+    "tags": [
+      "beauty",
+      "wellness",
+      "spa",
+      "skincare"
+    ],
+    "group": "Creative",
+    "careerOpportunities": [
+      "Beauty Therapist",
+      "Spa Specialist",
+      "Salon Manager"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "spoken-english",
+    "title": "Spoken English",
+    "category": [
+      "Languages & Test Prep"
+    ],
+    "description": "Confidence-building spoken English course covering grammar, vocabulary, and fluency for work and everyday life.",
+    "goals": [
+      "Get a Private Job",
+      "Get a Government Job",
+      "Study or Work Abroad",
+      "Grow in My Current Career",
+      "I'm Not Sure Yet"
+    ],
+    "minQualification": "SSLC",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional",
+      "Homemaker",
+      "Freelancer"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 8,
+    "tags": [
+      "spoken-english",
+      "communication",
+      "fluency",
+      "language"
+    ],
+    "group": "Language",
+    "careerOpportunities": [
+      "Better communication roles",
+      "Customer-facing jobs",
+      "Global opportunities"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "german-language",
+    "title": "German Language",
+    "category": [
+      "Languages & Test Prep"
+    ],
+    "description": "Structured German language training from beginner to advanced levels, geared toward study and work opportunities in Germany.",
+    "goals": [
+      "Study or Work Abroad",
+      "Switch My Career"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 24,
+    "tags": [
+      "german",
+      "language",
+      "study-abroad",
+      "europe"
+    ],
+    "group": "Language",
+    "careerOpportunities": [
+      "Germany-ready professional",
+      "Nurse/Engineer abroad",
+      "Language specialist"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "ielts-exam-coaching",
+    "title": "IELTS Exam Coaching",
+    "category": [
+      "Languages & Test Prep"
+    ],
+    "description": "Comprehensive IELTS coaching covering listening, reading, writing, and speaking modules to maximize your band score.",
+    "goals": [
+      "Study or Work Abroad"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 6,
+    "tags": [
+      "ielts",
+      "exam-prep",
+      "study-abroad",
+      "english-test"
+    ],
+    "group": "Language",
+    "careerOpportunities": [
+      "Study abroad candidate",
+      "Immigration-ready professional"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "High"
+  },
+  {
+    "id": "pte-coaching",
+    "title": "PTE Coaching",
+    "category": [
+      "Languages & Test Prep"
+    ],
+    "description": "Focused PTE Academic exam coaching with practice tests and strategy sessions to help you hit your target score fast.",
+    "goals": [
+      "Study or Work Abroad"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Immediately (0â€“3 months)",
+      "Within 6 months"
+    ],
+    "level": "beginner",
+    "durationWeeks": 6,
+    "tags": [
+      "pte",
+      "exam-prep",
+      "study-abroad",
+      "english-test"
+    ],
+    "group": "Language",
+    "careerOpportunities": [
+      "Study abroad candidate",
+      "Global mobility roles"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "airport-management-course",
+    "title": "Airport Management Course",
+    "category": [
+      "Aviation & Hospitality"
+    ],
+    "description": "Airport operations and ground services training preparing learners for careers in airport management and aviation support.",
+    "goals": [
+      "Get a Private Job",
+      "Switch My Career",
+      "Study or Work Abroad"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 12,
+    "tags": [
+      "aviation",
+      "airport",
+      "ground-services",
+      "hospitality"
+    ],
+    "group": "Aviation",
+    "careerOpportunities": [
+      "Airport Executive",
+      "Ground Staff Manager",
+      "Aviation Operations"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "kerala-psc",
+    "title": "Kerala PSC",
+    "category": [
+      "Government Services"
+    ],
+    "description": "Comprehensive Kerala PSC exam preparation covering general knowledge, aptitude, and state-specific syllabus coverage.",
+    "goals": [
+      "Get a Government Job"
+    ],
+    "minQualification": "SSLC",
+    "statuses": [
+      "Student",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 24,
+    "tags": [
+      "kerala-psc",
+      "government-exam",
+      "kerala",
+      "psc"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "Kerala Government Officer",
+      "PSC-qualified roles"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Medium"
+  },
+  {
+    "id": "kpsc-technical-exams",
+    "title": "KPSC Technical Exams",
+    "category": [
+      "Government Services",
+      "Engineering & Construction"
+    ],
+    "description": "Focused preparation for Kerala PSC technical-cadre exams covering engineering and technical subject syllabi.",
+    "goals": [
+      "Get a Government Job"
+    ],
+    "minQualification": "Diploma / ITI",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 20,
+    "tags": [
+      "kpsc",
+      "technical-exam",
+      "government",
+      "engineering"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "Technical Government Officer",
+      "Engineering cadre roles"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Medium"
+  },
+  {
+    "id": "kpsc-teaching",
+    "title": "KPSC Teaching",
+    "category": [
+      "Government Services",
+      "Teaching & Education"
+    ],
+    "description": "Targeted exam preparation for Kerala PSC teaching posts, covering pedagogy, subject knowledge, and exam strategy.",
+    "goals": [
+      "Get a Government Job"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "intermediate",
+    "durationWeeks": 20,
+    "tags": [
+      "kpsc",
+      "teaching",
+      "government",
+      "education"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "Government School Teacher",
+      "Education Officer"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Medium"
+  },
+  {
+    "id": "banking",
+    "title": "Banking",
+    "category": [
+      "Government Services",
+      "Finance & Business"
+    ],
+    "description": "Bank exam preparation covering quantitative aptitude, reasoning, and banking awareness for PO and clerk-level roles.",
+    "goals": [
+      "Get a Government Job",
+      "Get a Private Job"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Student",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 20,
+    "tags": [
+      "banking",
+      "bank-exam",
+      "po",
+      "clerk"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "Bank PO",
+      "Bank Clerk",
+      "Financial Services Officer"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "ssc",
+    "title": "SSC",
+    "category": [
+      "Government Services"
+    ],
+    "description": "Staff Selection Commission exam preparation covering quantitative aptitude, reasoning, English, and general awareness.",
+    "goals": [
+      "Get a Government Job"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 20,
+    "tags": [
+      "ssc",
+      "government-exam",
+      "central-government",
+      "aptitude"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "Central Government Staff",
+      "SSC-qualified roles"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Medium"
+  },
+  {
+    "id": "rrb-railways",
+    "title": "RRB (Railways)",
+    "category": [
+      "Government Services"
+    ],
+    "description": "Railway Recruitment Board exam preparation covering technical and non-technical syllabi for various railway posts.",
+    "goals": [
+      "Get a Government Job"
+    ],
+    "minQualification": "Plus Two",
+    "statuses": [
+      "Student",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 20,
+    "tags": [
+      "rrb",
+      "railways",
+      "government-exam",
+      "recruitment"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "Railway Officer",
+      "Technical/Non-technical railway roles"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Medium"
+  },
+  {
+    "id": "teaching-national",
+    "title": "Teaching (National)",
+    "category": [
+      "Government Services",
+      "Teaching & Education"
+    ],
+    "description": "National-level teaching eligibility exam preparation (such as CTET-style syllabi) for aspiring school teachers across India.",
+    "goals": [
+      "Get a Government Job",
+      "Switch My Career"
+    ],
+    "minQualification": "Degree",
+    "statuses": [
+      "Student",
+      "Job Seeker",
+      "Working Professional"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year"
+    ],
+    "level": "beginner",
+    "durationWeeks": 20,
+    "tags": [
+      "teaching",
+      "ctet",
+      "national-exam",
+      "education"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "School Teacher",
+      "CTET-qualified educator"
+    ],
+    "demandIndicator": "High",
+    "futureGrowthIndicator": "Growing"
+  },
+  {
+    "id": "other-exams",
+    "title": "Other Exams",
+    "category": [
+      "Government Services"
+    ],
+    "description": "General competitive exam preparation track covering a broad range of additional government recruitment exams.",
+    "goals": [
+      "Get a Government Job"
+    ],
+    "minQualification": "SSLC",
+    "statuses": [
+      "Student",
+      "Job Seeker"
+    ],
+    "timelineFit": [
+      "Within 6 months",
+      "Within 1 year",
+      "Just Exploring"
+    ],
+    "level": "beginner",
+    "durationWeeks": 16,
+    "tags": [
+      "government-exam",
+      "competitive-exam",
+      "general"
+    ],
+    "group": "Government Exams",
+    "careerOpportunities": [
+      "Competitive exam aspirant",
+      "Government job seeker"
+    ],
+    "demandIndicator": "Medium",
+    "futureGrowthIndicator": "Medium"
+  }
+]

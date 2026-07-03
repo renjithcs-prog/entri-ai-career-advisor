@@ -1,0 +1,120 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", system-ui, sans-serif;
+
+  --color-entri-blue: #0089ff;
+  --color-blue-600: #007de8;
+  --color-blue-400: #33a1ff;
+  --color-blue-container: #e6f3ff;
+  --color-on-blue-container: #004b8c;
+
+  --color-entri-green: #00805c;
+  --color-green-container: #e6f2ef;
+  --color-on-green-container: #004633;
+
+  --color-entri-orange: #ffa000;
+  --color-orange-container: #fff6e6;
+  --color-on-orange-container: #8c5800;
+
+  --color-primary-text: #212121;
+  --color-subtext: #616161;
+  --color-primary-container: #ffffff;
+  --color-secondary-container: #f6f6f6;
+  --color-surface-outline: #f0f0f0;
+  --color-page-bg: #fafafa;
+  --color-page-bg-dark: #121212;
+}
+
+:root,
+[data-theme="light"] {
+  color-scheme: light;
+  --bg: var(--color-page-bg);
+  --text: var(--color-primary-text);
+  --sub: var(--color-subtext);
+  --surface: var(--color-primary-container);
+  --surface-2: var(--color-secondary-container);
+  --outline: var(--color-surface-outline);
+  --glass-bg: rgba(255, 255, 255, 0.72);
+  --mesh-1: rgba(0, 137, 255, 0.08);
+  --mesh-2: rgba(0, 128, 92, 0.06);
+}
+
+[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: var(--color-page-bg-dark);
+  --text: #f6f6f6;
+  --sub: #b2b2b2;
+  --surface: #1e1e1e;
+  --surface-2: #272727;
+  --outline: #333333;
+  --glass-bg: rgba(30, 30, 30, 0.75);
+  --mesh-1: rgba(0, 137, 255, 0.12);
+  --mesh-2: rgba(0, 128, 92, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100dvh;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  background: var(--bg);
+  color: var(--text);
+  -webkit-font-smoothing: antialiased;
+}
+
+.text-primary-text {
+  color: var(--text);
+}
+
+.text-subtext {
+  color: var(--sub);
+}
+
+.bg-primary-container {
+  background: var(--surface);
+}
+
+.bg-secondary-container {
+  background: var(--surface-2);
+}
+
+.border-surface-outline {
+  border-color: var(--outline);
+}
+
+.glass {
+  background: var(--glass-bg);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+}
+
+.bg-entri-mesh {
+  background-image:
+    radial-gradient(ellipse 80% 50% at 20% -10%, var(--mesh-1), transparent),
+    radial-gradient(ellipse 60% 40% at 100% 0%, var(--mesh-2), transparent);
+}
+
+.shadow-entri {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
