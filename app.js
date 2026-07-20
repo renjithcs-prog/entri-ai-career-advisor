@@ -501,11 +501,13 @@ function showResults() {
 function renderWelcome() {
   screenEl.innerHTML = `
     <section class="welcome">
-      <div class="welcome__icon" aria-hidden="true">🎯</div>
-      <h1>Find Your Perfect Career Path</h1>
-      <p class="welcome__subtitle">Answer a few quick questions and our AI Career Advisor will recommend the best learning path for you.</p>
-      <p class="welcome__time">⏱ Estimated time: 60 Seconds</p>
-      <button type="button" class="btn btn--primary" id="btn-start" style="min-width:200px">Get Started</button>
+      <div class="welcome__illustration">
+        <img src="career-confused-illustration.jpg" alt="" aria-hidden="true" />
+      </div>
+      <h1>Confused about your <strong>next career move?</strong></h1>
+      <p class="welcome__bubble">Answer a few questions. Let AI guide you.</p>
+      <button type="button" class="btn btn--banner-cta" id="btn-start">Get Started</button>
+      <p class="welcome__timer">⏰ Takes just <strong>60 sec</strong></p>
     </section>
   `;
   document.getElementById("btn-start").addEventListener("click", handleStart);
